@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "f01375c1-cb6f-459b-80d4-06ab7d53997a": {
+      "label": "https://www.martinoticias.com/a/cuba-puerto-rico-cubanos-encuentro-nacional-uniendo-dos-orillas-/102124.html?utm_source=chatgpt.com",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Cubanos en Puerto Rico",
+  "av_file_order": [
+    "f01375c1-cb6f-459b-80d4-06ab7d53997a"
+  ],
+  "created_at": "2026-10-02T16:45:59.913Z",
+  "created_by": "Clerchme",
+  "updated_at": "2026-10-02T16:45:59.913Z",
+  "updated_by": "Clerchme"
+}
