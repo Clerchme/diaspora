@@ -17,7 +17,7 @@
     "github_org": "Clerchme",
     "is_private": false,
     "title": "Cuban exile in Puerto Rico",
-    "description": "This project offers an annotated reading of *Ecos del Exilio* (2013), directed by Natalia Bonilla, examining how Cuban migrants and their descendants remember Cuba and understand their place in Puerto Rico. An accompanying essay and annotations linked to specific moments in the documentary connect its interviews with historical sources and scholarship on migration, memory, and identity.\n\nThe analysis follows several intersecting concerns: the circumstances of departure, family separation, the political meanings of exile, nostalgia, cultural associations, and the possibility of return. It considers how family narratives shape subsequent generations’ understandings of Cuba, while leaving room for disagreement, curiosity, and changing attachments. Puerto Rico’s political relationship with the United States provides an essential context for these experiences.\n\nDeveloped as a teaching resource, the project invites students to examine how the documentary constructs its account through different voices and how personal recollections relate to broader historical processes. Its central concern is how belonging takes shape through memories, relationships, and experiences that extend across generations and places.",
+    "description": "This project offers an annotated reading of \"Ecos del Exilio\" (2013), directed by Natalia Bonilla, examining how Cuban migrants and their descendants remember Cuba and understand their place in Puerto Rico. An accompanying essay and annotations linked to specific moments in the documentary connect its interviews with historical sources and scholarship on migration, memory, and identity.\n\nThe analysis follows several intersecting concerns: the circumstances of departure, family separation, the political meanings of exile, nostalgia, cultural associations, and the possibility of return. It considers how family narratives shape subsequent generations’ understandings of Cuba, while leaving room for disagreement, curiosity, and changing attachments. Puerto Rico’s political relationship with the United States provides an essential context for these experiences.\n\nDeveloped as a teaching resource, the project invites students to examine how the documentary constructs its account through different voices and how personal recollections relate to broader historical processes. Its central concern is how belonging takes shape through memories, relationships, and experiences that extend across generations and places.",
     "language": "en",
     "slug": "diaspora",
     "creator": "Clerchme",
@@ -300,7 +300,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-27T22:27:33.583Z",
+    "updated_at": "2026-10-27T22:32:48.060Z",
     "generate_pages_site": false
   },
   "annotations": {},
