@@ -307,8 +307,20 @@
           "tag": "Political Refugees"
         },
         {
+          "category": "Migration and Legal Status",
+          "tag": "Refugee Protection"
+        },
+        {
+          "category": "Migration and Legal Status",
+          "tag": "Migration Policy"
+        },
+        {
           "category": "Historical Context",
           "tag": "Cold War"
+        },
+        {
+          "category": "Migration and Legal Status",
+          "tag": "Exile"
         }
       ],
       "uuid": "c63028f2-ea40-4971-9eb6-add3f3d67c67"
