@@ -922,8 +922,16 @@
           "tag": "Special Period"
         },
         {
-          "category": "Migration and Legal Status",
-          "tag": "Exile"
+          "category": "Social Conditions and Displacement",
+          "tag": "Economic Insecurity"
+        },
+        {
+          "category": "Politics and Rights",
+          "tag": "Political Dialogue"
+        },
+        {
+          "category": "Identity and Belonging",
+          "tag": " Diasporic Identity"
         }
       ],
       "uuid": "b54f9e21-a108-4cde-a06f-6741319c869a"
