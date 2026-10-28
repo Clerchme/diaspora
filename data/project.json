@@ -199,10 +199,6 @@
         },
         {
           "category": "Historical Context",
-          "tag": "Soviet Foreign Policy"
-        },
-        {
-          "category": "Historical Context",
           "tag": "Special Period"
         },
         {
@@ -1116,7 +1112,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T15:24:41.422Z",
+    "updated_at": "2026-10-28T15:24:53.338Z",
     "generate_pages_site": false
   },
   "annotations": {},
