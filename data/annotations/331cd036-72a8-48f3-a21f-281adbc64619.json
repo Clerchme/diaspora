@@ -283,36 +283,7 @@
           ]
         }
       ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Psychological Impact"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Nostalgia"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Uprootedness"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Cultural Bereavement"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Place Attachment"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Family Separation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Social Support."
-        }
-      ],
+      "tags": [],
       "uuid": "6c889675-345f-4a8e-b61a-b2b521f0aee0"
     },
     {
