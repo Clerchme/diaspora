@@ -552,7 +552,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Social Conditions and Displacement",
+          "tag": "Economic Insecurity"
+        },
+        {
+          "category": "Social Conditions and Displacement",
+          "tag": "Us Embargo"
+        },
+        {
+          "category": "Politics and Rights",
+          "tag": "Freedom of Expression"
+        },
+        {
+          "category": "Politics and Rights",
+          "tag": "Political Responsibility"
+        },
+        {
+          "category": "Historical Context",
+          "tag": "Special Period"
+        }
+      ],
       "uuid": "2e99ea29-0fed-4ca8-b73e-221c3827d7b4"
     },
     {
