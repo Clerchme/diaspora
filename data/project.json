@@ -926,10 +926,6 @@
           "tag": "Political Dialogue"
         },
         {
-          "category": "Politics and Rights",
-          "tag": "\tPolitical Pluralism, Political Repression, Religious Persecution, Freedom of Expression, Silencing, Political Blame, Political Responsibility, Collective Responsibility, Political Agency, Political Dialogue, Peaceful Opposition"
-        },
-        {
           "category": "Community Life and Transnational Ties",
           "tag": "Casa Cuba"
         },
@@ -1092,7 +1088,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T17:05:29.431Z",
+    "updated_at": "2026-10-28T17:06:48.897Z",
     "generate_pages_site": false
   },
   "annotations": {},
