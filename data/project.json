@@ -859,10 +859,6 @@
         },
         {
           "category": "Family and Generations",
-          "tag": "Family Obligations"
-        },
-        {
-          "category": "Family and Generations",
           "tag": "Intergenerational Transmission"
         },
         {
@@ -1124,7 +1120,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T16:02:16.147Z",
+    "updated_at": "2026-10-28T16:03:58.313Z",
     "generate_pages_site": false
   },
   "annotations": {},
