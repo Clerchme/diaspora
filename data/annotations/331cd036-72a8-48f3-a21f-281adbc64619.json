@@ -267,36 +267,7 @@
           ]
         }
       ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Economic Adjustment"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Social Class"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Family Separation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Migration Policy"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Restrictions on Return"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Family Communication"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Institutional Pressure."
-        }
-      ],
+      "tags": [],
       "uuid": "d332d8ca-4337-44ea-9b78-a83071ff9b1a"
     },
     {
