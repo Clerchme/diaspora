@@ -910,10 +910,6 @@
           "tag": "Fear"
         },
         {
-          "category": "Social Conditions and Displacement",
-          "tag": "Guilt"
-        },
-        {
           "category": "Politics and Responsibility",
           "tag": "Political Pluralism"
         },
@@ -1104,7 +1100,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T16:10:38.569Z",
+    "updated_at": "2026-10-28T16:10:46.387Z",
     "generate_pages_site": false
   },
   "annotations": {},
