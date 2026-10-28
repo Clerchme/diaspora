@@ -23,8 +23,16 @@
           "tag": "Nostalgia"
         },
         {
+          "category": "Migration and Legal Status",
+          "tag": "Exile"
+        },
+        {
           "category": "Historical Context",
-          "tag": "Agrarian Reform"
+          "tag": "Nationalization"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Imagined Cuba"
         }
       ],
       "uuid": "f06c7d75-3830-4863-aef5-f32a60efc66e"
