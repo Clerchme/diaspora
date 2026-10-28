@@ -266,12 +266,24 @@
       ],
       "tags": [
         {
-          "category": "Migration and Legal Status",
-          "tag": "Exile"
+          "category": "Memory and Narration",
+          "tag": "Family Memory"
         },
         {
           "category": "Memory and Narration",
-          "tag": "Family Memory"
+          "tag": "Memory of Exile"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Communicative Memory"
+        },
+        {
+          "category": "Family and Generations",
+          "tag": "Intergenerational Transmission"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Family Narratives"
         }
       ],
       "uuid": "a21ce399-41aa-4929-b474-e1a1a39cddb5"
