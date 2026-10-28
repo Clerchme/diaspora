@@ -77,24 +77,8 @@
           "tag": "Freedom Flights"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Family Separatio"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Family Reunification"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Cold War, U.S.–Cuba Relations"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Migration Policy"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Exile."
+          "category": "Migration and Legal Status",
+          "tag": "Exile"
         }
       ],
       "uuid": "55f4eb8d-6882-4db0-822b-c2c02d9bd8f8"
