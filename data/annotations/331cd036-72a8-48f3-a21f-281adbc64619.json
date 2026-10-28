@@ -735,8 +735,24 @@
       ],
       "tags": [
         {
+          "category": "Community Life and Transnational Ties",
+          "tag": "Casa Cuba"
+        },
+        {
+          "category": "Community Life and Transnational Ties",
+          "tag": "Cultural Traditions"
+        },
+        {
+          "category": "Community Life and Transnational Ties",
+          "tag": "Cultural Transmission"
+        },
+        {
           "category": "Memory and Narration",
-          "tag": "Collective Memory"
+          "tag": "Cultural Memory"
+        },
+        {
+          "category": "Family and Generations",
+          "tag": "Intergenerational Transmission"
         }
       ],
       "uuid": "2c9770e5-d553-444d-8769-5726098cdcfe"
