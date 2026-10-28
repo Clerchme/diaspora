@@ -52,16 +52,24 @@
       ],
       "tags": [
         {
-          "category": "Migration and Legal Status",
-          "tag": "Exile"
-        },
-        {
           "category": "Memory and Narration",
           "tag": "Family Memory"
         },
         {
-          "category": "Historical Context",
-          "tag": "Nationalization"
+          "category": "Memory and Narration",
+          "tag": "Competing Narratives"
+        },
+        {
+          "category": "Family and Generations",
+          "tag": "Intergenerational Transmission"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Imagined Cuba"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Collective Memory"
         }
       ],
       "uuid": "45328491-6c43-4fad-a0e1-fa8f82bcb465"
