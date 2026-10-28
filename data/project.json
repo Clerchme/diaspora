@@ -914,10 +914,6 @@
           "tag": "Guilt"
         },
         {
-          "category": "Social Conditions and Displacement",
-          "tag": "Curiosity"
-        },
-        {
           "category": "Politics and Responsibility",
           "tag": "Political Pluralism"
         },
@@ -1108,7 +1104,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T16:10:29.772Z",
+    "updated_at": "2026-10-28T16:10:38.569Z",
     "generate_pages_site": false
   },
   "annotations": {},
