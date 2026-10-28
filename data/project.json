@@ -67,10 +67,6 @@
       "tags": [
         {
           "category": "borrar",
-          "tag": "Poverty/ Internal Migration/ Property Seizure/ Economic Loss/ Exile/ Social Class/ Family Memory/ Intergenerational Transmission/ Political Imaginaries"
-        },
-        {
-          "category": "borrar",
           "tag": "Freedom Flights/ Family Separatio/  Family Reunification/  Cold War, U.S.–Cuba Relations/ Migration Policy? Exile."
         },
         {
@@ -1080,7 +1076,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T18:15:11.498Z",
+    "updated_at": "2026-10-28T18:15:17.098Z",
     "generate_pages_site": false
   },
   "annotations": {},
