@@ -871,10 +871,6 @@
         },
         {
           "category": "Identity and Belonging",
-          "tag": "Puerto Rican Identity"
-        },
-        {
-          "category": "Identity and Belonging",
           "tag": "Cuban Puerto Rican Identity"
         },
         {
@@ -1116,7 +1112,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T16:04:14.048Z",
+    "updated_at": "2026-10-28T16:05:59.168Z",
     "generate_pages_site": false
   },
   "annotations": {},
