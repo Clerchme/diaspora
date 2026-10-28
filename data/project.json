@@ -211,10 +211,6 @@
         },
         {
           "category": "Migration and Legal Status",
-          "tag": "Political Migration"
-        },
-        {
-          "category": "Migration and Legal Status",
           "tag": "Exile"
         },
         {
@@ -1140,7 +1136,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T16:00:08.582Z",
+    "updated_at": "2026-10-28T16:00:17.488Z",
     "generate_pages_site": false
   },
   "annotations": {},
