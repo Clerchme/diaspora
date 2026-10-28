@@ -375,7 +375,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Social Conditions and Displacement",
+          "tag": "Economic Insecurity"
+        },
+        {
+          "category": "Family and Generations",
+          "tag": "Family Separation"
+        },
+        {
+          "category": "Migration and Legal Status",
+          "tag": "Migration Policy"
+        },
+        {
+          "category": "Politics and Rights",
+          "tag": "Political Repression"
+        },
+        {
+          "category": "Social Conditions and Displacement",
+          "tag": "Social Integration"
+        }
+      ],
       "uuid": "d332d8ca-4337-44ea-9b78-a83071ff9b1a"
     },
     {
