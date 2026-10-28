@@ -856,8 +856,20 @@
           "tag": "Exile"
         },
         {
+          "category": "Family and Generations",
+          "tag": "Descendants"
+        },
+        {
+          "category": "Family and Generations",
+          "tag": "Intergenerational Transmission"
+        },
+        {
+          "category": "Identity and Belonging",
+          "tag": " Diasporic Identity"
+        },
+        {
           "category": "Migration and Legal Status",
-          "tag": "Choice and Constraint"
+          "tag": "Immigrant Replenishment"
         }
       ],
       "uuid": "dd51df69-939f-4e0e-a088-3e7d0734ae13"
