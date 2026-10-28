@@ -366,44 +366,7 @@
           ]
         }
       ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Social Mobility"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Political Belonging"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "State Provision"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Economic Hardship"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Remittance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Family Support"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "U.S. Embargo"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Freedom of Expression"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Political Memory"
-        }
-      ],
+      "tags": [],
       "uuid": "2e99ea29-0fed-4ca8-b73e-221c3827d7b4"
     },
     {
