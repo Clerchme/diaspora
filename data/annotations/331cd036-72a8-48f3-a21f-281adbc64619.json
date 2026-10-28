@@ -451,12 +451,24 @@
       ],
       "tags": [
         {
-          "category": "Historical Context",
-          "tag": "Agrarian Reform"
+          "category": "Memory and Narration",
+          "tag": "Imagined Cuba"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Nostalgia"
+        },
+        {
+          "category": "Memory and Narration",
+          "tag": "Competing Narratives"
         },
         {
           "category": "Memory and Narration",
           "tag": "Collective Memory"
+        },
+        {
+          "category": "Politics and Rights",
+          "tag": "Political Repression"
         }
       ],
       "uuid": "9063f47d-a3ef-4378-b5ed-22160abbb43e"
