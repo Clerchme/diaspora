@@ -412,7 +412,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Memory and Narration",
+          "tag": "Nostalgia"
+        },
+        {
+          "category": "Social Conditions and Displacement",
+          "tag": "Uprootedness"
+        },
+        {
+          "category": "Identity and Belonging",
+          "tag": "Roots"
+        },
+        {
+          "category": "Family and Generations",
+          "tag": "Family Separation"
+        },
+        {
+          "category": "Social Conditions and Displacement",
+          "tag": "Social Integration"
+        }
+      ],
       "uuid": "6c889675-345f-4a8e-b61a-b2b521f0aee0"
     },
     {
