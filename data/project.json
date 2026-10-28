@@ -195,10 +195,6 @@
         },
         {
           "category": "Historical Context",
-          "tag": "Revolutionary Change"
-        },
-        {
-          "category": "Historical Context",
           "tag": "Cold War"
         },
         {
@@ -1108,7 +1104,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-28T15:19:26.341Z",
+    "updated_at": "2026-10-28T15:19:33.960Z",
     "generate_pages_site": false
   },
   "annotations": {},
