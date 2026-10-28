@@ -614,22 +614,6 @@
       "uuid": "3d887044-02eb-4aba-a939-52fa4a276116"
     },
     {
-      "start_time": 1129,
-      "end_time": 1253,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Debatir como se contruye la memria y aquin pertenece la nostalgia"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "b1254f4a-e89e-4f6f-9379-9fef4ff94ad2"
-    },
-    {
       "start_time": 1264,
       "end_time": 1304,
       "annotation": [
