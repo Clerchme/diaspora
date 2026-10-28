@@ -461,40 +461,7 @@
           ]
         }
       ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Diasporic Identity"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Cultural Roots"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Multiple Belonging"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Situational Identification"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Naturalization"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "U.S. Citizenship"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Oath of Allegiance"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "National Belonging."
-        }
-      ],
+      "tags": [],
       "uuid": "5b1d89cb-ee0d-4a46-98a6-4848a29d1ec1"
     },
     {
