@@ -9,25 +9,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://nombre-del-sitio.netlify.app/",
-      "caption": "Mapa interactivo",
+      "type": "table-of-contents",
       "children": [
         {
           "text": ""
@@ -51,41 +33,170 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "b4dd973f-e02e-4631-be85-484ce2551213",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+      "type": "grid",
+      "layout": [
+        3,
+        3
       ],
-      "type": "event",
       "children": [
         {
-          "text": ""
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRF5IBJV9LQE5OP19lH8th-O2XcpF2608J-Oqg5SECDksKxjHYEkOtMG4AELwX6lA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Timeline",
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRF5IBJV9LQE5OP19lH8th-O2XcpF2608J-Oqg5SECDksKxjHYEkOtMG4AELwX6lA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -106,6 +217,6 @@
   "slug": "ecos-del-exilio",
   "created_at": "2026-10-30T17:40:32.190Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-10-30T18:37:54.743Z",
+  "updated_at": "2026-10-30T20:24:31.778Z",
   "updated_by": "Clerchme"
 }
