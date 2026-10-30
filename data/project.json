@@ -878,10 +878,6 @@
           "tag": "Continuity of Exile"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Future of Cuba"
-        },
-        {
           "category": "Historical Context",
           "tag": "Agrarian Reform"
         },
@@ -976,7 +972,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:05:05.750Z",
+    "updated_at": "2026-10-30T17:05:26.432Z",
     "generate_pages_site": false
   },
   "annotations": {},
