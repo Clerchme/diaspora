@@ -127,10 +127,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Political Propaganda"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Parental Authority"
         },
         {
@@ -840,7 +836,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:07:33.279Z",
+    "updated_at": "2026-10-30T17:07:36.115Z",
     "generate_pages_site": false
   },
   "annotations": {},
