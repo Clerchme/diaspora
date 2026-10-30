@@ -119,10 +119,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Mourning and Loss"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Politics of Memory"
         },
         {
@@ -892,7 +888,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:06:48.811Z",
+    "updated_at": "2026-10-30T17:06:52.169Z",
     "generate_pages_site": false
   },
   "annotations": {},
