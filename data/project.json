@@ -611,10 +611,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Transmission"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Miami."
         },
         {
@@ -932,7 +928,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:05:59.631Z",
+    "updated_at": "2026-10-30T17:06:04.472Z",
     "generate_pages_site": false
   },
   "annotations": {},
