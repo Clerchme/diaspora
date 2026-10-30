@@ -119,10 +119,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Agrarian Reform"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Expectations of Return"
         },
         {
@@ -752,7 +748,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:09:05.712Z",
+    "updated_at": "2026-10-30T17:09:08.775Z",
     "generate_pages_site": false
   },
   "annotations": {},
