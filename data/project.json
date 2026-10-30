@@ -807,10 +807,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Restrictions on Return"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Demographic Change"
         },
         {
@@ -908,7 +904,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:06:22.771Z",
+    "updated_at": "2026-10-30T17:06:25.671Z",
     "generate_pages_site": false
   },
   "annotations": {},
