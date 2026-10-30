@@ -127,10 +127,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Political Persecution"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Cuban Adjustment Act"
         },
         {
@@ -796,7 +792,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:08:19.435Z",
+    "updated_at": "2026-10-30T17:08:22.390Z",
     "generate_pages_site": false
   },
   "annotations": {},
