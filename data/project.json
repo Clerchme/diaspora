@@ -119,10 +119,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Political Responsibility"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Family Memory/"
         },
         {
@@ -820,7 +816,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:07:59.032Z",
+    "updated_at": "2026-10-30T17:08:02.292Z",
     "generate_pages_site": false
   },
   "annotations": {},
