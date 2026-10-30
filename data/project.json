@@ -119,10 +119,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Migration Decisions"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Political Responsibility"
         },
         {
@@ -824,7 +820,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:07:55.713Z",
+    "updated_at": "2026-10-30T17:07:59.032Z",
     "generate_pages_site": false
   },
   "annotations": {},
