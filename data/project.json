@@ -119,10 +119,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Migration Cohorts"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Representation of Cuba"
         },
         {
@@ -900,7 +896,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:06:42.516Z",
+    "updated_at": "2026-10-30T17:06:45.572Z",
     "generate_pages_site": false
   },
   "annotations": {},
