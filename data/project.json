@@ -127,10 +127,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Censorship"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Political Persecution"
         },
         {
@@ -804,7 +800,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:08:12.459Z",
+    "updated_at": "2026-10-30T17:08:15.651Z",
     "generate_pages_site": false
   },
   "annotations": {},
