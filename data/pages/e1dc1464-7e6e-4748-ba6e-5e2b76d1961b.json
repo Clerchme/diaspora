@@ -25,6 +25,16 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://nombre-del-sitio.netlify.app/",
+      "caption": "Mapa interactivo",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -96,6 +106,6 @@
   "slug": "ecos-del-exilio",
   "created_at": "2026-10-30T17:40:32.190Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-10-30T17:40:32.190Z",
+  "updated_at": "2026-10-30T18:37:54.743Z",
   "updated_by": "Clerchme"
 }
