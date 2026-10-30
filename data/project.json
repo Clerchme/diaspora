@@ -131,10 +131,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Professional Class"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Agrarian Reform"
         },
         {
@@ -768,7 +764,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:08:40.294Z",
+    "updated_at": "2026-10-30T17:08:43.532Z",
     "generate_pages_site": false
   },
   "annotations": {},
