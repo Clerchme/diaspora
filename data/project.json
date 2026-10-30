@@ -123,10 +123,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Intergenerational Transmission"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Political Imaginaries"
         },
         {
@@ -868,7 +864,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:07:11.850Z",
+    "updated_at": "2026-10-30T17:07:14.517Z",
     "generate_pages_site": false
   },
   "annotations": {},
