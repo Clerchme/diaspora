@@ -119,10 +119,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "1950s Cuba"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Economic Prosperity"
         },
         {
@@ -708,7 +704,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:10:51.133Z",
+    "updated_at": "2026-10-30T17:11:08.945Z",
     "generate_pages_site": false
   },
   "annotations": {},
