@@ -847,10 +847,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Return"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Travel to Cuba"
         },
         {
@@ -960,7 +956,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:05:37.498Z",
+    "updated_at": "2026-10-30T17:05:40.951Z",
     "generate_pages_site": false
   },
   "annotations": {},
