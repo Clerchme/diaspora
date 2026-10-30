@@ -212,11 +212,11 @@
   "title": "Ecos del Exilio",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "ecos-del-exilio",
   "created_at": "2026-10-30T17:40:32.190Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-10-30T20:24:31.778Z",
+  "updated_at": "2026-10-30T20:25:06.454Z",
   "updated_by": "Clerchme"
 }
