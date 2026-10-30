@@ -1,9 +1,133 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        4,
+        2
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "",
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRF5IBJV9LQE5OP19lH8th-O2XcpF2608J-Oqg5SECDksKxjHYEkOtMG4AELwX6lA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRF5IBJV9LQE5OP19lH8th-O2XcpF2608J-Oqg5SECDksKxjHYEkOtMG4AELwX6lA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRF5IBJV9LQE5OP19lH8th-O2XcpF2608J-Oqg5SECDksKxjHYEkOtMG4AELwX6lA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vRF5IBJV9LQE5OP19lH8th-O2XcpF2608J-Oqg5SECDksKxjHYEkOtMG4AELwX6lA&font=Default&lang=en&initial_zoom=2&width=100%25&height=650",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Timeline",
+                  "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQmugzhkdflMEQXn53a85JVb4ULG1Z-xsnSkPhShGM5Ct4zjSxP0YeqDJjmCWZNXg&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-10-02T16:45:28.578Z",
   "created_by": "Clerchme",
   "title": "Cubanos en Puerto Rico",
-  "updated_at": "2026-10-30T20:31:32.494Z",
+  "updated_at": "2026-10-30T20:38:14.505Z",
   "updated_by": "Clerchme",
   "autogenerate": {
     "enabled": false,
