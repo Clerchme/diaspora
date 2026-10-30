@@ -611,10 +611,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Intergenerationa"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Transmission"
         },
         {
@@ -936,7 +932,7 @@
       ]
     },
     "created_at": "2026-10-02T16:45:28.575Z",
-    "updated_at": "2026-10-30T17:05:56.475Z",
+    "updated_at": "2026-10-30T17:05:59.631Z",
     "generate_pages_site": false
   },
   "annotations": {},
