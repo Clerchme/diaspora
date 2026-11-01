@@ -257,7 +257,44 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
+                  "text": "Figure 1.",
+                  "bold": true
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "text": "50 aniversario: Círculo Cubano de Puerto Rico",
+                  "italic": true
+                },
+                {
+                  "text": ", commemorative program, 21 May 1999. Published by "
+                },
+                {
+                  "text": "El Nuevo Día",
+                  "italic": true
+                },
+                {
+                  "text": ". Latin American Ephemera Collection, Princeton University Library Digital Collections. "
+                },
+                {
+                  "text": "Rights status: Copyright Not Evaluated.",
+                  "bold": true
+                },
+                {
+                  "text": " Source: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://digital-collections.princeton.edu/i/50-aniversario-c%C3%ADrculo-cubano-puert/item/95dcc859-c115-471a-98f7-d0f77faf90ca",
+                  "children": [
+                    {
+                      "text": "Princeton University Library"
+                    }
+                  ]
+                },
+                {
+                  "text": "."
                 }
               ]
             }
@@ -277,7 +314,7 @@
   "created_at": "2026-10-02T16:45:28.578Z",
   "created_by": "Clerchme",
   "title": "Cubans in Puerto Rico",
-  "updated_at": "2026-11-01T14:20:20.172Z",
+  "updated_at": "2026-11-01T14:23:00.103Z",
   "updated_by": "Clerchme",
   "autogenerate": {
     "enabled": false,
