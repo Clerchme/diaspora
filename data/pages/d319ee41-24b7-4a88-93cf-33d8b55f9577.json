@@ -1,0 +1,136 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Cuba, Puerto Rico, and the Historical Paths Between Them",
+          "italic": true,
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The histories of Cuba and Puerto Rico have developed through interconnected but distinct experiences of colonialism, emancipation, political struggle, migration, and cultural exchange. This interactive chronology brings together selected events from both islands to examine how their historical trajectories converged, diverged, and continued to influence one another."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The timeline distinguishes three categories: "
+        },
+        {
+          "text": "Cuba",
+          "bold": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "Puerto Rico",
+          "bold": true
+        },
+        {
+          "text": ", and "
+        },
+        {
+          "text": "Cross-Island Connections",
+          "bold": true
+        },
+        {
+          "text": ". These categories highlight different historical contexts without suggesting that events occurring in the same period necessarily shared the same causes or consequences."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each entry includes a brief historical explanation and references to relevant sources. Readers are invited to explore the chronology alongside "
+        },
+        {
+          "text": "Two Islands, Entangled Histories",
+          "italic": true
+        },
+        {
+          "text": ", where these relationships are examined in greater depth."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Explore the Interactive Timeline"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[TimelineJS embedded here]",
+          "link": "https://timeline.knightlab.com/#preview-embed"
+        }
+      ]
+    }
+  ],
+  "title": "A Connected Chronology",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "a-connected-chronology",
+  "created_at": "2026-11-01T15:44:48.049Z",
+  "created_by": "Clerchme",
+  "updated_at": "2026-11-01T15:44:48.049Z",
+  "updated_by": "Clerchme"
+}
