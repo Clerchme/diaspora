@@ -96,6 +96,7 @@
   "slug": "ecos-del-exilio",
   "created_at": "2026-10-30T17:40:32.190Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-01T14:19:57.811Z",
-  "updated_by": "Clerchme"
+  "updated_at": "2026-11-01T14:23:18.341Z",
+  "updated_by": "Clerchme",
+  "parent": "44a9139f-af39-4f9c-beab-36dc45b149f3"
 }
