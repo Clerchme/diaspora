@@ -14,7 +14,79 @@
               "type": "paragraph",
               "children": [
                 {
+                  "text": "",
+                  "bold": true,
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Migration, Exile, Community, and the Making of Belonging"
                 }
               ]
             }
@@ -30,16 +102,61 @@
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Cuban migration to Puerto Rico long predates the 1959 Revolution. Geographic proximity, commercial exchange, political connections, and sustained movement between the two islands created a history of circulation that cannot be reduced to a single migration wave or political experience. Cubans arrived in Puerto Rico at different moments, under different circumstances, and with unequal access to economic resources, legal status, and established social networks. Their experiences challenge accounts that present the Cuban presence on the island as a homogeneous community."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "After 1959, however, migration acquired a new political vocabulary. Many Cubans who left the island came to identify themselves as exiles rather than emigrants. This distinction did more than describe the circumstances of departure. It shaped memories of Cuba, expectations of return, political identities, and the organizations through which migrants constructed a collective presence in Puerto Rico. Newspapers, community associations, commemorative publications, photographs, interviews, and audiovisual works participated in this process by transforming personal experiences of displacement into public narratives of exile."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Those narratives changed across migration waves and generations. Cubans who arrived during the 1960s and 1970s often described belonging through memories of political rupture, family separation, and an anticipated or deferred return. Their children and grandchildren inherited these histories while developing attachments to Puerto Rico that did not necessarily reproduce the political language of the first generation. Later migrants arrived under different economic, political, and legal circumstances, adding new experiences to an already diverse community. The meanings of "
+                },
+                {
+                  "text": "emigrant",
+                  "italic": true
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "text": "exile",
+                  "italic": true
+                },
+                {
+                  "text": ", and "
+                },
+                {
+                  "text": "diaspora",
+                  "italic": true
+                },
+                {
+                  "text": " therefore remained unstable and contested."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
         }
       ]
     },
@@ -58,6 +175,22 @@
               "children": [
                 {
                   "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project places multiple sources in conversation to examine those transformations. Newspaper articles record public debates and contemporary representations of Cuban migration. Institutional publications document the organizations through which parts of the community narrated their history and asserted a collective identity. Photographs and cultural ephemera preserve public events and everyday forms of association. Oral testimony and documentary film convey memories of departure, adaptation, family separation, and belonging. Government and migration records reveal the administrative categories that shaped mobility and legal status. None of these sources offers a complete account. Each emerges from particular institutions, historical moments, and practices of selection."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Reading these materials together makes it possible to ask where their narratives converge, where they contradict one another, and whose experiences remain difficult to recover. The project approaches the archive not as a transparent record of Cuban life in Puerto Rico, but as a field in which migrants, descendants, journalists, filmmakers, community organizations, and state institutions have produced competing accounts of migration and belonging."
                 }
               ]
             }
@@ -106,8 +239,25 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Timeline",
+                  "text": "",
                   "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQmugzhkdflMEQXn53a85JVb4ULG1Z-xsnSkPhShGM5Ct4zjSxP0YeqDJjmCWZNXg&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "<iframe src=\"https://figgy.princeton.edu/uv.html#?manifest=https://figgy.princeton.edu/concern/ephemera_folders/95dcc859-c115-471a-98f7-d0f77faf90ca/manifest&c=0&m=0&s=0&cv=0&config=/viewer/config/95dcc859-c115-471a-98f7-d0f77faf90ca.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-2681,203,10233,5327&r=0\" width=\"560\" height=\"420\" allowfullscreen frameborder=\"0\"></iframe>",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             }
@@ -126,12 +276,13 @@
   ],
   "created_at": "2026-10-02T16:45:28.578Z",
   "created_by": "Clerchme",
-  "title": "Cubanos en Puerto Rico",
-  "updated_at": "2026-10-30T20:38:14.505Z",
+  "title": "Cubans in Puerto Rico",
+  "updated_at": "2026-11-01T14:19:38.098Z",
   "updated_by": "Clerchme",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "parent": "e1dc1464-7e6e-4748-ba6e-5e2b76d1961b"
+  "parent": "e1dc1464-7e6e-4748-ba6e-5e2b76d1961b",
+  "slug": "cubans-in-puerto-rico"
 }
