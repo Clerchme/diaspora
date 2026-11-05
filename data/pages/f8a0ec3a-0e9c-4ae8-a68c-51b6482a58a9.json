@@ -69,7 +69,8 @@
       "children": [
         {
           "bold": true,
-          "text": "[INSERT EXISTING TIMELINEJS CHRONOLOGY HERE]"
+          "text": "[INSERT EXISTING TIMELINEJS CHRONOLOGY HERE] (agregar una imagen)",
+          "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTwNYnoW3dMpOeO6kFNepRoTYYq98ygVbI2kqv3ElX0pgo4kJVY6RrJ9A4_u8wkug&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
         }
       ],
       "align": "justify"
@@ -396,6 +397,24 @@
       "align": "justify"
     },
     {
+      "type": "image",
+      "url": "https://iiif-cloud.princeton.edu/iiif/2/1d%2Fa2%2F02%2F1da202132c664d269fc62cb0fe7ad71b%2Fintermediate_file/full/!453,535/0/default.jpg",
+      "caption": "PDF circulo cubano",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -614,7 +633,7 @@
   "slug": "a-connected-chronology",
   "created_at": "2026-11-05T20:55:07.223Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-05T21:02:48.942Z",
+  "updated_at": "2026-11-05T21:09:22.041Z",
   "updated_by": "Clerchme",
   "parent": "5762c9d4-38c6-453b-b670-6b33547910f8"
 }
