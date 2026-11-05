@@ -14,8 +14,7 @@
       "children": [
         {
           "italic": true,
-          "text": "Cub​a, Puerto Rico, and the Historical Paths Between Them",
-          "bold": true
+          "text": "Cub​a, Puerto Rico, and the Historical Paths Between Them"
         }
       ],
       "align": "center"
@@ -50,14 +49,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Each entry includes a brief historical explanation and references to relevant sources. Readers are invited to explore the chronology alongside "
-        },
-        {
-          "text": "Two Islands, Entangled Histories",
-          "italic": true
-        },
-        {
-          "text": ", where these relationships are examined in greater depth."
+          "text": "Each entry includes a brief historical explanation and references to relevant sources. Readers are invited to explore the chronology alongside Two Islands, Entangled Histories, where these relationships are examined in greater depth."
         }
       ],
       "align": "justify"
@@ -69,37 +61,24 @@
           "text": "",
           "bold": true
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
       "children": [
         {
           "bold": true,
-          "text": "[INSERT EXISTING INTERACTIVE TIMELINEJS CHRONOLOGY HERE]"
+          "text": "[INSERT EXISTING TIMELINEJS CHRONOLOGY HERE]"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "heading-two",
       "children": [
         {
-          "text": "1. Historical Chronology and the Memory of Migration"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The relationship between historical chronology and community memory becomes especially significant when examining the migration narratives presented in "
-        },
-        {
-          "text": "Ecos del Exilio",
-          "italic": true
-        },
-        {
-          "text": ". In one sequence, Andrés Candelario emphasizes the Cubans who arrived in Puerto Rico during the 1960s and 1970s, identifying these decades with the formation of a recognizable exile community. His account provides insight into the period through which a particular group understands its collective history, but it should not be read as a comprehensive chronology of Cuban presence on the island (Bonilla 00:01:33–00:03:03)."
+          "text": "Historical Time and the Problem of Beginnings"
         }
       ],
       "align": "justify"
@@ -108,7 +87,152 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The chronology offers a different perspective. The Círculo Cubano de Puerto Rico, for example, was formally registered in 1949, a decade before the Cuban Revolution. This institutional history does not diminish the transformations brought about by migration after 1959. Instead, it demonstrates the importance of distinguishing the establishment of an association, the subsequent growth and transformation of a migrant population, and the retrospective narratives through which particular generations remember the formation of their community. These processes intersect without necessarily beginning at the same historical moment."
+          "text": "Historical chronologies organize the past through decisions about which events to include, how to establish their temporal boundaries, and what relationships their sequence makes visible. These decisions are particularly consequential when examining migration, a process whose history cannot be confined to a single departure, political rupture, or moment of settlement. The chronology presented here begins with an abolitionist intervention concerning Cuba and Puerto Rico in 1865 and extends to demographic evidence from 2019. Its purpose is not to provide an exhaustive history of either island, but to situate the experiences narrated in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": " within longer historical processes that shaped the possibilities and meanings of movement between them."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The comparative arrangement also requires distinguishing chronological proximity from historical equivalence. The abolition of slavery in Puerto Rico in 1873 and Cuba in 1886, for example, belongs to related struggles over colonial labor and freedom, but their different dates cannot explain the distinct experiences of emancipation without further attention to the institutions and social relationships involved. Similarly, the transformations following 1898 produced different frameworks of political sovereignty and citizenship. Placing these developments on a shared timeline makes their connections available for examination without suggesting that comparable events produced identical consequences. Chronology identifies relationships worth investigating; historical interpretation establishes what those relationships mean."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This distinction becomes especially important when the chronology approaches the twentieth century. The Cuban Revolution of 1959 occupies a prominent position in accounts of Cuban migration, but its significance differs according to the population and historical process under examination. Jorge Duany's “Cuban Migration: A Postrevolution Exodus Ebbs and Flows” distinguishes successive migration periods, including the departures of 1959–1962, the Freedom Flights of 1965–1973, the Mariel boatlift of 1980, and the 1994 rafter crisis. These periods describe changing circumstances of Cuban migration principally toward the United States. They cannot automatically serve as an equivalent chronology of Cuban settlement in Puerto Rico."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Duany's separate examination of immigration to Puerto Rico makes this geographical distinction concrete. Cuban immigration to the island increased considerably during the 1960s but declined sharply in the early 1980s. Relatively few participants in the Mariel exodus settled in Puerto Rico. The Cuba-born resident population subsequently declined from 22,811 in 1980 to 9,548 in 2019, according to the census estimates discussed in his study (“Inmigración de cubanos y dominicanos a Puerto Rico”). These figures document changes in a population defined by birthplace; they do not measure the entire population of Cuban descent or establish the disappearance of Cuban cultural identification. The difference between migration flows, resident populations, and intergenerational belonging is essential when constructing a history of diasporic continuity."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Associational Time and the Making of Community Memory"
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Another chronology emerges from the institutions through which migrants and their descendants organized social relationships. The Círculo Cubano de Puerto Rico provides an instructive example. Its "
+        },
+        {
+          "text": "Reglamento",
+          "italic": true
+        },
+        {
+          "text": ", revised in 2005, records the association's registration with Puerto Rico's Department of State on April 25, 1949, under number 1670 (art. 2). The date precedes the Revolution and demonstrates that formal Cuban associational life existed in Puerto Rico before the post-1959 migrations. It does not establish that the institution's membership, political commitments, or activities remained unchanged across the following decades. The later regulations document an institutional history that underwent revision and reinterpretation."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The chronological record must therefore distinguish between the establishment of an association and the meanings subsequently attributed to it. The Círculo Cubano's fiftieth-anniversary publication of 1999 represents a later moment in which the institution publicly commemorated its continuity. Jan Assmann's distinction between communicative memory and culturally organized forms of remembrance is useful here: memories circulated through social relationships can acquire different forms of durability when they are incorporated into commemorations, publications, and institutional practices (127–29). A registration date and an anniversary publication consequently constitute different kinds of historical evidence. The first documents a formal act of organization; the second reveals how an institution presented its history to a later audience."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This distinction also explains why the chronology includes audiovisual and printed sources alongside political events and migration legislation. The 2017 entry for "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ", for example, records the online publication of the version uploaded by MictilBrand Studios, not necessarily the date on which its testimonies were recorded or its production completed. Such differences matter because the circulation of a documentary creates another historical moment in the life of the accounts it contains. Experiences narrated retrospectively are selected and arranged for an audience, and their subsequent publication allows those interpretations to circulate beyond the circumstances of the original recording."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Historical Chronology and the Documentary Construction of Exile Memory"
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The relationship between historical periodization and remembered community formation becomes particularly visible in Andrés Candelario's intervention in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ". In the sequence from 01:33 to 03:03, he places particular emphasis on Cubans who arrived in Puerto Rico during the 1960s and 1970s. His account gives these decades prominence in the history of a recognizable exile community (Bonilla 00:01:33–00:03:03). Read alongside the chronology, this periodization raises a question that cannot be resolved simply by comparing dates: how does a particular generation's experience of migration become a reference point for explaining the formation of a wider community?"
         }
       ],
       "align": "justify"
@@ -120,7 +244,8 @@
           "text": "",
           "bold": true
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -129,7 +254,8 @@
           "bold": true,
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "uuid": "5ae02339-4ba0-4eb1-b983-0d26842d002f",
@@ -147,7 +273,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -155,7 +282,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -165,9 +293,10 @@
           "italic": true
         },
         {
-          "text": ", directed by Natalia Bonilla. “Cuban Exile in Puerto Rico: Collective Memory, Mourning, and Nostalgia.” "
+          "text": ". Directed by Natalia Bonilla. “Cuban Exile in Puerto Rico: Collective Memory, Mourning, and Nostalgia.” Selected sequence, 01:33–03:03. Existing AVAnnotate annotation."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -175,15 +304,87 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": "Reading the chronology alongside this testimony makes the distinction between historical periodization and narrated collective memory analytically productive. The former organizes events according to documented dates and institutional developments; the latter reveals how participants assign significance to particular experiences and periods. Neither source is sufficient on its own to reconstruct the entire history of Cuban migration to Puerto Rico. Their comparison establishes the context for examining how departure, political transformation, and family separation acquired different meanings within the community."
+          "text": "Alessandro Portelli's “What Makes Oral History Different” provides a methodological approach to this question. His analysis distinguishes the information that narrators communicate about past events from the meanings they assign to those events through recollection and narrative organization. Applying this distinction to Candelario requires attention to the specific community he describes. The prominence of the 1960s and 1970s in his account may reveal the historical importance of those migrations for a particular understanding of Cuban exile in Puerto Rico. It does not, by itself, establish that earlier Cuban social networks were absent or that later migrants necessarily shared the same interpretation of community origins."
         }
-      ]
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The documentary adds another level of mediation. Candelario's account is not an unedited historical record presented independently of its audiovisual setting; it forms part of a film that selects speakers and organizes their interventions into a broader narrative. The emphasis assigned to a particular period therefore emerges through both the participant's explanation and its position within the documentary. Reading the fragment alongside the chronology allows these different operations to be examined without treating one source as historically objective and the other as merely subjective. Both involve selection, although they do so through different procedures and for different purposes."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The resulting comparison identifies three related but distinct temporal dimensions: the dates of historical events, the periods through which people interpret their lives, and the later moments when these interpretations enter publicly circulating records. A community may have an institutional history preceding a migration wave that later acquires exceptional significance in its collective remembrance. That significance belongs to the history of the community as well, provided it is not mistaken for evidence that all its members experienced the past in the same way."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rather than resolving these differences into a single chronology of exile, the interactive timeline makes them available for comparative investigation. The following section turns from the organization of historical time to the experiences of departure represented in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ", examining how revolutionary change, political classifications, family relationships, and the expectation of return shaped different understandings of migration."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "heading-two",
@@ -191,7 +392,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "horizontal-separator",
@@ -221,6 +423,33 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Assmann, Jan. “Collective Memory and Cultural Identity.” Translated by John Czaplicka, "
+        },
+        {
+          "text": "New German Critique",
+          "italic": true
+        },
+        {
+          "text": ", no. 65, 1995, pp. 125–33. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.2307/488538",
+          "children": [
+            {
+              "text": "https://doi.org/10.2307/488538"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Bonilla, Natalia, director. "
         },
         {
@@ -228,7 +457,7 @@
           "italic": true
         },
         {
-          "text": ". 2013. MictilBrand Studios, "
+          "text": ". MictilBrand Studios, "
         },
         {
           "text": "YouTube",
@@ -255,7 +484,123 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Note: The references for individual historical events are supplied within the corresponding TimelineJS entries. Their final bibliographic audit is pending.",
+          "text": "Círculo Cubano de Puerto Rico, Inc. "
+        },
+        {
+          "text": "Reglamento",
+          "italic": true
+        },
+        {
+          "text": ". Revised 2005. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.casacubapr.com/_files/ugd/712fbb_f3e46d4384574f89a4179dfe92176308.pdf",
+          "children": [
+            {
+              "text": "https://www.casacubapr.com/_files/ugd/712fbb_f3e46d4384574f89a4179dfe92176308.pdf"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Duany, Jorge. “Cuban Migration: A Postrevolution Exodus Ebbs and Flows.” "
+        },
+        {
+          "text": "Migration Information Source",
+          "italic": true
+        },
+        {
+          "text": ", Migration Policy Institute, 6 July 2017. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.migrationpolicy.org/journal/country-profile/cuban-migration-postrevolution-exodus-ebbs-and-flows",
+          "children": [
+            {
+              "text": "https://www.migrationpolicy.org/journal/country-profile/cuban-migration-postrevolution-exodus-ebbs-and-flows"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Duany, Jorge. “Inmigración de cubanos y dominicanos a Puerto Rico.” "
+        },
+        {
+          "text": "EnciclopediaPR",
+          "italic": true
+        },
+        {
+          "text": ", updated 12 May 2021, "
+        },
+        {
+          "type": "link",
+          "url": "https://enciclopediapr.org/content/inmigracion-de-cubanos-y-dominicanos-a-puerto-rico/",
+          "children": [
+            {
+              "text": "https://enciclopediapr.org/content/inmigracion-de-cubanos-y-dominicanos-a-puerto-rico/"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Portelli, Alessandro. “What Makes Oral History Different.” "
+        },
+        {
+          "text": "The Death of Luigi Trastulli and Other Stories: Form and Meaning in Oral History",
+          "italic": true
+        },
+        {
+          "text": ", State University of New York Press, 1991, pp. 45–58. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.2307/jj.18255477.6",
+          "children": [
+            {
+              "text": "https://doi.org/10.2307/jj.18255477.6"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
           "italic": true
         }
       ]
@@ -269,7 +614,7 @@
   "slug": "a-connected-chronology",
   "created_at": "2026-11-05T20:55:07.223Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-05T20:55:23.460Z",
+  "updated_at": "2026-11-05T21:02:48.942Z",
   "updated_by": "Clerchme",
   "parent": "5762c9d4-38c6-453b-b670-6b33547910f8"
 }
