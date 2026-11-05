@@ -118,7 +118,7 @@
       "children": [
         {
           "text": "[TimelineJS embedded here]",
-          "link": "https://timeline.knightlab.com/#preview-embed"
+          "link": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vTwNYnoW3dMpOeO6kFNepRoTYYq98ygVbI2kqv3ElX0pgo4kJVY6RrJ9A4_u8wkug&font=Default&lang=en&initial_zoom=2&width=100%25&height=650"
         }
       ]
     }
@@ -131,7 +131,7 @@
   "slug": "a-connected-chronology",
   "created_at": "2026-11-01T15:44:48.049Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-01T15:45:15.707Z",
+  "updated_at": "2026-11-05T18:28:53.532Z",
   "updated_by": "Clerchme",
   "parent": "44a9139f-af39-4f9c-beab-36dc45b149f3"
 }
