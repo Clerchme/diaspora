@@ -1,0 +1,274 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": "Cub​a, Puerto Rico, and the Historical Paths Between Them",
+          "bold": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The histories of Cuba and Puerto Rico have developed through interconnected but distinct experiences of colonialism, emancipation, political struggle, migration, and cultural exchange. This interactive chronology brings together selected events from both islands to examine how their historical trajectories converged, diverged, and continued to influence one another."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The timeline distinguishes three categories: Cuba, Puerto Rico, and Cross-Island Connections. These categories highlight different historical contexts without suggesting that events occurring in the same period necessarily shared the same causes or consequences."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each entry includes a brief historical explanation and references to relevant sources. Readers are invited to explore the chronology alongside "
+        },
+        {
+          "text": "Two Islands, Entangled Histories",
+          "italic": true
+        },
+        {
+          "text": ", where these relationships are examined in greater depth."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "[INSERT EXISTING INTERACTIVE TIMELINEJS CHRONOLOGY HERE]"
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "1. Historical Chronology and the Memory of Migration"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The relationship between historical chronology and community memory becomes especially significant when examining the migration narratives presented in "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ". In one sequence, Andrés Candelario emphasizes the Cubans who arrived in Puerto Rico during the 1960s and 1970s, identifying these decades with the formation of a recognizable exile community. His account provides insight into the period through which a particular group understands its collective history, but it should not be read as a comprehensive chronology of Cuban presence on the island (Bonilla 00:01:33–00:03:03)."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The chronology offers a different perspective. The Círculo Cubano de Puerto Rico, for example, was formally registered in 1949, a decade before the Cuban Revolution. This institutional history does not diminish the transformations brought about by migration after 1959. Instead, it demonstrates the importance of distinguishing the establishment of an association, the subsequent growth and transformation of a migrant population, and the retrospective narratives through which particular generations remember the formation of their community. These processes intersect without necessarily beginning at the same historical moment."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5ae02339-4ba0-4eb1-b983-0d26842d002f",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 93,
+      "end": 183,
+      "file": "6ecb29d0-cd2a-406b-82fa-479476c0a805",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ", directed by Natalia Bonilla. “Cuban Exile in Puerto Rico: Collective Memory, Mourning, and Nostalgia.” "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reading the chronology alongside this testimony makes the distinction between historical periodization and narrated collective memory analytically productive. The former organizes events according to documented dates and institutional developments; the latter reveals how participants assign significance to particular experiences and periods. Neither source is sufficient on its own to reconstruct the entire history of Cuban migration to Puerto Rico. Their comparison establishes the context for examining how departure, political transformation, and family separation acquired different meanings within the community."
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-two",
+      "children": [
+        {
+          "text": "Works Cited"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bonilla, Natalia, director. "
+        },
+        {
+          "text": "Ecos del Exilio",
+          "italic": true
+        },
+        {
+          "text": ". 2013. MictilBrand Studios, "
+        },
+        {
+          "text": "YouTube",
+          "italic": true
+        },
+        {
+          "text": ", uploaded 30 July 2017, "
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=j0a52tQ5sls",
+          "children": [
+            {
+              "text": "https://www.youtube.com/watch?v=j0a52tQ5sls"
+            }
+          ]
+        },
+        {
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Note: The references for individual historical events are supplied within the corresponding TimelineJS entries. Their final bibliographic audit is pending.",
+          "italic": true
+        }
+      ]
+    }
+  ],
+  "title": "A Connected Chronology",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "a-connected-chronology",
+  "created_at": "2026-11-05T20:55:07.223Z",
+  "created_by": "Clerchme",
+  "updated_at": "2026-11-05T20:55:07.223Z",
+  "updated_by": "Clerchme"
+}
