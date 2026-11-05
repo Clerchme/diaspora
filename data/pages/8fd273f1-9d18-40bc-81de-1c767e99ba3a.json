@@ -116,6 +116,114 @@
       "align": "justify"
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "INSERTAR IMAGEN (PDF ) PERIODICO PATRIA"
+                }
+              ]
+            },
+            {
+              "type": "grid",
+              "layout": [
+                2,
+                4
+              ],
+              "children": [
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "column",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "uuid": "b4dd973f-e02e-4631-be85-484ce2551213",
+                      "includes": [
+                        "media",
+                        "annotations",
+                        "label",
+                        "description"
+                      ],
+                      "start": 1306,
+                      "end": 1452,
+                      "file": "fed71dfd-de4a-4295-8e68-71736b32f742",
+                      "type": "event",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "heading-two",
       "children": [
         {
@@ -619,7 +727,7 @@
   "slug": "two-islands-entangled-histories",
   "created_at": "2026-11-05T20:17:37.596Z",
   "created_by": "Clerchme",
-  "updated_at": "2026-11-05T20:20:22.497Z",
+  "updated_at": "2026-11-05T20:30:50.465Z",
   "updated_by": "Clerchme",
   "parent": "5762c9d4-38c6-453b-b670-6b33547910f8"
 }
